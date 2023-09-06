@@ -1,0 +1,14 @@
+{
+  "name": "note_zarzygany",
+  "version": "1.0.0",
+  "description": "Robimy cos z NODEm nie wiem co sie dzieje",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Ksawery Szwichtenberg",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
